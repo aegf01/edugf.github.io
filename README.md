@@ -33,7 +33,7 @@ Soy estudiante de Grado en Ciencia de Datos Aplicada en la Universitat Oberta de
 
 - **Email**: agonzalezsmx2013@gmail.com
 - **Ubicación**: Nou Barris, 08016, Barcelona
-- **[LinkedIn](#)** (Agrega tu enlace de LinkedIn aquí)
+- **[LinkedIn](#)** (https://www.linkedin.com/in/eduardo-gonz%C3%A1lez-fern%C3%A1ndez-168083214/)
 
 ---
 
