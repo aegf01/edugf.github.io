@@ -1,4 +1,4 @@
-# Hola, soy Eduardo González!
+# Hola, soy Edu!
 
 **Estudiante de Ciencia de Datos Aplicada | Técnico en TI**
 
