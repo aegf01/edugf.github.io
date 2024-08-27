@@ -14,7 +14,7 @@ Soy estudiante de Grado en Ciencia de Datos Aplicada en la Universitat Oberta de
 
 - **Lenguajes de Programación**: Python, R
 - **Análisis de Datos**: Excel, SQL
-- **Herramientas**: BMC Helix ITSM Remedy
+- **Herramientas**: RStudio, ITSM Remedy
 - **Idiomas**: Castellano y Catalán (Nativo), Inglés (B2)
 
 ---
