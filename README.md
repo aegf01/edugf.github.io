@@ -21,7 +21,7 @@ Soy estudiante de Grado en Ciencia de Datos Aplicada en la Universitat Oberta de
 
 ### Proyectos
 
-- **[Análisis de Datos de Ventas](#)**  
+- **[Análisis de morosidad](https://github.com/aegf01/credit-status-analysis/blob/main/PEC4.pdf)**  
   Proyecto académico en el cual analicé datos de ventas de una empresa ficticia utilizando Python y Excel, logrando identificar patrones y tendencias que podrían mejorar la estrategia de ventas.
 
 - **[Visualización de Datos](#)**  
