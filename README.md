@@ -22,10 +22,10 @@ Soy estudiante de Grado en Ciencia de Datos Aplicada en la Universitat Oberta de
 ### Proyectos
 
 - **[Análisis de morosidad](https://aegf01.github.io/credit-status-analysis/)**  
-  Proyecto académico en el cual analicé datos de ventas de una empresa ficticia utilizando Python y Excel, logrando identificar patrones y tendencias que podrían mejorar la estrategia de ventas.
+  Proyecto académico en el cual analicé datos de prestamos de una empresa ficticia utilizando RStudio, logrando identificar patrones y tendencias que podrían ser determinantes para determinar si el perfil crediticio és idonio para la empresa.
 
-- **[Visualización de Datos](#)**  
-  Creación de dashboards interactivos utilizando herramientas como Tableau y Power BI, presentando datos de manera clara y comprensible para facilitar la toma de decisiones.
+- **[Student Performance](#)**  
+  Analisis de datos sobre estudiantes para determinar que variables pueden afectar a su rendimiento académico.
 
 ---
 
